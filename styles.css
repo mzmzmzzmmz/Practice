@@ -1,11 +1,11 @@
 h1 {
     color: #FEFEFE;
-    font-size: 6rem;
+    font-size: 4rem;
     font-family: "Open Sans", Helvetica, sans-serif;
 }
 h2{
     color: #FEFEFE;
-    font-size: 4rem;
+    font-size: 3rem;
     font-family: "Open Sans", Helvetica, sans-serif;
 
 }
@@ -13,7 +13,7 @@ h2{
 body {
     background-color: #202123;
     color: #D1D5DA;
-    font-size: 3rem;
+    font-size: 1rem;
 }
 
 .profilePhoto {
